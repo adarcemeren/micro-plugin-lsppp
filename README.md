@@ -7,7 +7,6 @@ Please note that this entire project, including the source code, logic implement
 # LSP++ for Micro Editor
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Micro](https://img.shields.io/badge/editor-micro-orange.svg)
 
 **LSP++** is a high-performance, lightweight, and self-contained Language Server Protocol (LSP) client engineered specifically for C and C++ development within the [Micro](https://micro-editor.github.io/) text editor.
